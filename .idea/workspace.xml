@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50b7e3f9-a48c-47db-8e31-350b54db9d91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="a59682e0-7f7c-4ea4-a368-a56255bbe319" />
+  <component name="ProjectId" id="1Vi63a5EZJM7lXmHX14Sry7IqnY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NBA Analysis" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="BBallRef" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/BBallRef/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50b7e3f9-a48c-47db-8e31-350b54db9d91" name="Default Changelist" comment="" />
+      <created>1577723369477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577723369477</updated>
+      <workItem from="1577723390549" duration="1815000" />
+      <workItem from="1577731049477" duration="7316000" />
+      <workItem from="1577841663935" duration="20827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="746" y="279" width="424" height="488" key="FileChooserDialogImpl" timestamp="1577805853427">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="746" y="279" width="424" height="488" key="FileChooserDialogImpl/0.27.1920.987@0.27.1920.987" timestamp="1577805853427" />
+    <state width="1874" height="256" key="GridCell.Tab.0.bottom" timestamp="1578330504052">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1874" height="256" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1578330504052" />
+    <state width="1874" height="256" key="GridCell.Tab.0.center" timestamp="1578330504051">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1874" height="256" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1578330504051" />
+    <state width="1874" height="256" key="GridCell.Tab.0.left" timestamp="1578330504051">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1874" height="256" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1578330504051" />
+    <state width="1874" height="256" key="GridCell.Tab.0.right" timestamp="1578330504051">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1874" height="256" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1578330504051" />
+    <state x="452" y="151" width="1016" height="734" key="SettingsEditor" timestamp="1577739125973">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="452" y="151" width="1016" height="734" key="SettingsEditor/0.27.1920.987@0.27.1920.987" timestamp="1577739125973" />
+    <state x="620" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1577841664232">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="620" y="338" key="com.intellij.ide.util.TipDialog/0.27.1920.987@0.27.1920.987" timestamp="1577841664232" />
+    <state x="607" y="250" width="706" height="536" key="find.popup" timestamp="1577849757862">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="607" y="250" width="706" height="536" key="find.popup/0.27.1920.987@0.27.1920.987" timestamp="1577849757862" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BBallRef$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1578037133936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
